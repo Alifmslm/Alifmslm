@@ -1,7 +1,7 @@
 Hi 👋 My name is Alif Muslim Abdurrahman
 ========================================
 
-Android Developer & UI/UX Designer
+Frontend Developer & UI/UX Designer
 ----------------------------------
 
 I've been studying programing since 2021 and im focusing in UI/UX Design and Developing Android App
