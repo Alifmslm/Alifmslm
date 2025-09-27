@@ -1,4 +1,4 @@
-<h3 align="center">Hi there :)</h3>
+<h2>Hi there 🙌</h3>
 
 Im Alif, a software engineer based in 'Kota Kembang' (Bandung).
 
