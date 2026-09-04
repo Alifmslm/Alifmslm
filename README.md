@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./asset/download.jpg" width="800">
-
 # I'm Alif, Dev with Designer Taste
 
 I move between design, code, and AI, figuring out how a rough idea can become a product people actually enjoy using.
